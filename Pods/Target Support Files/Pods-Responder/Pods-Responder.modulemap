@@ -1,0 +1,6 @@
+framework module Pods_Responder {
+  umbrella header "Pods-Responder-umbrella.h"
+
+  export *
+  module * { export * }
+}
